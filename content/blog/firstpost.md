@@ -1,6 +1,6 @@
 ---
 title: This is my first post!!!!.
-description: This is a post on My Blog about agile frameworks. Another test sentance
+description: This is a post on My Blog about agile frameworks. Another test sentance. This is another test sentance.
 date: 2018-05-01
 tags:
   - another tag
