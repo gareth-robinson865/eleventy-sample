@@ -1,5 +1,5 @@
 ---
-title: This is my first post!!!!.
+title: This is my first post no idea why it thinks that it is the same as main!
 description: This is a post on My Blog about agile frameworks.
 date: 2018-05-01
 tags:
