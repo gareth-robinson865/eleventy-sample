@@ -6,4 +6,5 @@ eleventyNavigation:
 ---
 # About Me
 
-I am a person that writes stuff.
+I am Gareth Robinson, a web developer in training. I am passionate about a career in the web developement sector.
+
