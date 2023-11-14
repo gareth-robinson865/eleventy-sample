@@ -1,5 +1,5 @@
 ---
-title: This is my second post with a much longer title.
+title: struggling to update and understand.
 description: This is a post on My Blog about leveraging agile frameworks.
 date: 2023-11-14
 tags:
