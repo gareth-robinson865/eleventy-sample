@@ -7,7 +7,7 @@ eleventyNavigation:
 <form>
 			<label for="firstName">Enter your first name</label>
 			<input type="text" name="firstName" id="firstName" placeholder="Enter your first name"
-			1
+
 			<label for="secondName">Enter your first name</label>
 			<input type="text" name="secondName" id="secondName" placeholder="Enter your second name"
 
