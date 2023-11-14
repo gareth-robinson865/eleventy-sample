@@ -1,5 +1,5 @@
 ---
-layout: layouts/formlayout.html
+layout: layouts/base.njk
 eleventyNavigation:
 	key: Form info
 	order: 4
