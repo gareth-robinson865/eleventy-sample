@@ -3,9 +3,9 @@ layout: layouts/base.njk
 ---
 
 {%- css %}{% include "public/css/message-box.css" %}{% endcss %}
-{%- css %}{% include "public/css/index.css" %}{% endcss %}
+{%- css %}{% include 'node_modules/bootstrap/dist/css/bootstrap.css' %} {%- endcss %}
 
 <!-- Stop deleting -->
-
-{{ content | safe }}
 <img src="../../_assets/images/logo.png" alt="logo not working">
+{{ content | safe }}
+
