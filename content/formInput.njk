@@ -5,18 +5,18 @@ eleventyNavigation:
   order: 4
 ---
 <h1>Input information</h1>
-<form id="form">
-	<label for="firstName">Enter your first name</label>
+<form id="form" method="POST" data-netlify="true" class="mb-3">
+	<label for="firstName" class="form-label">Enter your first name</label>
 	<input type="text" name="firstName" id="firstName" placeholder="Enter your first name">
 
-	<label for="secondName">Enter your second name</label>
+	<label for="secondName" class="form-label">Enter your second name</label>
 	<input type="text" name="secondName" id="secondName" placeholder="Enter your second name">
 
-	<label for="email">Enter your email</label>
+	<label for="email" class="form-label">Enter your email</label>
 	<input type="email" name="email" id="email" placeholder="Enter your email">
 
-	<label for="message">Type your message</label>
+	<label for="message" class="form-label">Type your message</label>
 	<input type="textarea" name="message" id="message" placeholder="type your message">
 
-	<input type="submit">
+	<button type="submit">Send</button>
 </form>
