@@ -5,7 +5,7 @@ eleventyNavigation:
   order: 1
 numberOfLatestPostsToShow: 3
 ---
-
+{%- css %}{% include 'node_modules/bootstrap/dist/css/bootstrap.css' %} {%- endcss %}
 
 {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
